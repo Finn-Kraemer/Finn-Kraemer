@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @Finn-Kraemer
-- 👀 I’m interested in Computer Science, motorbikes, gaming
-- 🌱 I’m currently learning for my bachelor of science
